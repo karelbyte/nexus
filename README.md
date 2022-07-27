@@ -13,10 +13,9 @@ You can run the tests using **npm test**, we recommend that the app is running i
 The web app runs on **port 8080** if you like you can modify it in the **.env**
 
 visit any of these urls, or curious about the code
-**localhost:8080/brands
-localhost:8080/models?lower=400000**
+**localhost:8080/brands  
+localhost:8080/models?lower=400000**  
 
-
-**Karel Puerto**
-**karelpdiaz@hotmail.com**
-**7551272444**
+**Karel Puerto**  
+**karelpdiaz@hotmail.com**  
+**7551272444**  
