@@ -10,11 +10,11 @@ Steps to mount the app on a local system.
 Process to launch the app with the **npm start** command
 You can run the tests using **npm test**, we recommend that the app is running in order to test the endpoints.
 
-The web app runs on **port 3000 ** if you like you can modify it in the **.env**
+The web app runs on **port 8080** if you like you can modify it in the **.env**
 
 visit any of these urls, or curious about the code
-**localhost:3000/brands
-localhost:3000/models?lower=400000**
+**localhost:8080/brands
+localhost:8080/models?lower=400000**
 
 
 **Karel Puerto**

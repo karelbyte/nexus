@@ -1,5 +1,5 @@
 const request = require("supertest");
-const baseURL = "http://localhost:3000";
+const baseURL = "http://localhost:8080";
 
 // if test not pass -> npm start and run test egain
 test("check api - brand ", async () => {
