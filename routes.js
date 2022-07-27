@@ -2,6 +2,11 @@ const brandsControllers = require("./controllers/brands");
 const modelsController = require('./controllers/models');
 
 const routerManager = (app) => {
+
+  app.get('/', function (req, res) {
+    res.send('Hello from the moon :)');
+  });
+
   app.group("/brands", (router) => {
     router.get("/", brandsControllers.getAll);
     router.get("/:id/models", brandsControllers.getModelsByBrandId);
